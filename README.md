@@ -1,4 +1,4 @@
-# 🏦 Credstack - Decentralized Credit Scoring
+# Credstack - Decentralized Credit Scoring
 
 > Build transparent credit profiles on the Stacks blockchain 📊
 
